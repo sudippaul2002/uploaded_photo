@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sudip Paul</h1>
+<h1 align="center">Hi 👋, I am Sudip Paul</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
+<img align="right" alt="coding" width="450"  src="https://github.com/sudippaul2002/sudippaul200/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudippaul2002&label=Profile%20views&color=0e75b6&style=flat" alt="sudippaul2002" /> </p>
 
@@ -9,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/sudip-paul-aa688b25a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/s_u_d_i_p_p_a_u_l_0_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_u_d_i_p_p_a_u_l_0_2" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@learnwithlerner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclrxr4dwqdak-pkskj0vg8w" height="30" width="40" /></a>
 <a href="https://blogmastersudip.blogspot.com/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Blogger-Logo-2010.png" height="30" width="40" /></a>
